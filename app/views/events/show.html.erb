@@ -1,0 +1,56 @@
+<h1  id="header3">
+      QUAXAMEDICS © 
+        </h1>
+        <h1  id="tituloEvento4">
+        Observar evento:
+          </h1>
+        <p id="notice"><%= notice %></p>
+
+<p>
+
+  <strong>Nombre:</strong>
+  <div id="nombreShow">
+  <%= @event.name %>
+  </div>
+</p>
+
+<p>
+
+  <strong>Apellidos:</strong>  
+  <div id="apeShow">
+  <%= @event.lastname %>
+  </div>
+</p>
+
+<p>
+  <strong>Descripción:</strong>
+  <div id="descShow">
+  <%= @event.description %>
+  </div>
+</p>
+
+<p>
+  <strong>Fecha/hora incio:</strong>
+  <div id="fechaIShow">
+  <%= @event.start_date %>
+  </div>
+</p>
+
+<p>
+  <strong>Fecha/hora final:</strong>
+  <div id="fechaFShow">
+  <%= @event.end_date %>
+  </div>
+</p>
+
+<div id="botonesShow">
+<%= link_to 'Edit', edit_event_path(@event) %> |
+<%= link_to 'Back', events_path %>
+</div>
+
+<div id="logoMedico6"> 
+        </div>
+
+        <h3  id="pieContact7">
+        COPYRIGHT © 2021 - QUAXARMEDICS - COATZACOALCOS,VERACRUZ,MÉXICO
+        </h3>

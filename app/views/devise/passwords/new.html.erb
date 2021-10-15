@@ -1,0 +1,30 @@
+<h1  id="header">
+      BIENVENIDO A QUAXAMEDICS © 
+        </h1>
+        <div id="logoQuaxamedics"> 
+        </div>
+        <h2 id="titulo"> ¿Olvidaste tu contraseña?</h2>
+
+<%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post }) do |f| %>
+  <%= render "devise/shared/error_messages", resource: resource %>
+
+  <div class="olvidasteContraseña">
+    <%= f.label :email %><br />
+    <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
+  </div>
+
+  <div class="botonEnviar">
+    <%= f.submit "Send me reset password instructions" %>
+  </div>
+<% end %>
+
+<div id="botonesExtras3">
+<%= render "devise/shared/links" %>
+</div>
+
+<div id="logoMedico3"> 
+        </div>  
+
+        <h3  id="pieContact3">
+        COPYRIGHT © 2021 - QUAXARMEDICS - COATZACOALCOS,VERACRUZ,MÉXICO
+        </h3>

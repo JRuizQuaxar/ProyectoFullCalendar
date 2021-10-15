@@ -1,0 +1,593 @@
+#header{
+    color:#080808 ; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 30px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-left: -35px;
+}
+#header{
+    margin-top: -35px;
+    width: 105%; /*Anchura*/
+    height: 20px; /*Altura*/
+    background-color:#74b6d6 ; /*Color del fondo*/
+}
+#logoQuaxamedics{
+    background-image: url("app/stylessheets/Logo_preview_rev_1_opt.png");
+    width:200px; /*Ancho*/
+    height:72px; /*Altura*/
+    border-radius:15px; /*Borde*/
+    margin-top: -10px; /*Espacios de arriba*/
+    margin-left: 0px; /*Espacios de izquierda*/
+/*Lo de arriba nos ayuda a tener diseño en la imagen de perfil añadida*/ 
+  }
+#titulo{
+    margin-top: 60px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 30px;
+}
+
+.email{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+.contraseña{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+.iniciarSesion3{
+    margin-top: 10px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 15px;
+}
+
+.botonIniciarSesion{
+    margin-top: 20px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 0px;
+}
+
+#botonesExtras{
+    margin-top: 20px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 15px;
+}
+
+#logoMedico{
+    background-image: url("app/stylessheets/medico_opt.jpg");
+    width:931px; /*Ancho*/
+    height:675px; /*Altura*/
+    margin-top: -480px; /*Espacios de arriba*/
+    margin-left: 580px; /*Espacios de izquierda*/
+/*Lo de arriba nos ayuda a tener diseño en la imagen de perfil añadida*/ 
+  }
+
+  #pieContact{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -65px;
+}
+
+
+
+
+
+
+
+/*REGISTRARSE*/
+#header{
+    color:#080808 ; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 30px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-left: -35px;
+}
+#header{
+    margin-top: -35px;
+    width: 105%; /*Anchura*/
+    height: 20px; /*Altura*/
+    background-color:#74b6d6 ; /*Color del fondo*/
+}
+#logoQuaxamedics{
+    background-image: url("app/stylessheets/Logo_preview_rev_1_opt.png");
+    width:200px; /*Ancho*/
+    height:72px; /*Altura*/
+    border-radius:15px; /*Borde*/
+    margin-top: 40px; /*Espacios de arriba*/
+    margin-left: 0px; /*Espacios de izquierda*/
+/*Lo de arriba nos ayuda a tener diseño en la imagen de perfil añadida*/ 
+  }
+
+  .emailRegistro{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+.contraseñaRegistro{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+#leyenda{
+    margin-top: 0px;
+    color: #094d85; /*Color de las letras*/
+    ; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 12px;
+}
+
+.contraseñaRegistro2{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonRegistrarse{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+#botonesExtras2{
+    margin-top: 20px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 15px;
+}
+
+  #logoMedico2{
+    background-image: url("app/stylessheets/medicos2_opt.jpg");
+    width:931px; /*Ancho*/
+    height:524px; /*Altura*/
+    margin-top: -510px; /*Espacios de arriba*/
+    margin-left: 597px; /*Espacios de izquierda*/
+/*Lo de arriba nos ayuda a tener diseño en la imagen de perfil añadida*/ 
+  }
+
+  #pieContact2{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact2{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:102px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
+
+
+
+
+
+
+
+
+
+
+  /*¿Olvidaste tu contraseña?*/
+  .olvidasteContraseña{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonEnviar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+#botonesExtras3{
+    margin-top: 20px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 15px;
+}
+
+#logoMedico3{
+    background-image: url("app/stylessheets/medico3.jpg");
+    width:931px; /*Ancho*/
+    height:621px; /*Altura*/
+    margin-top: -350px; /*Espacios de arriba*/
+    margin-left: 580px; /*Espacios de izquierda*/
+
+
+}   
+
+#pieContact3{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact3{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
+
+
+
+
+
+
+
+
+
+/*Eventos*/
+
+#logoQuaxamedics{
+    background-image: url("app/stylessheets/Logo_preview_rev_1_opt.png");
+    width:200px; /*Ancho*/
+    height:72px; /*Altura*/
+    border-radius:15px; /*Borde*/
+    margin-top: 0px; /*Espacios de arriba*/
+    margin-left: 1265px;
+/*Lo de arriba nos ayuda a tener diseño en la imagen de perfil añadida*/ 
+  }
+
+#header3{
+    color:#080808 ; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 30px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-left: -35px;
+}
+
+#header3{
+    margin-top: -35px;
+    width: 105%; /*Anchura*/
+    height: 20px; /*Altura*/
+    background-color:#74b6d6 ; /*Color del fondo*/
+}
+
+
+#tituloEvento{
+    margin-top: -70px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 30px;
+}
+
+#tabla{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+}
+
+
+
+
+/*Nuevo evento*/
+#header5{
+    color:#080808 ; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 30px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-left: -35px;
+}
+
+#header5{
+    margin-top: -35px;
+    width: 105%; /*Anchura*/
+    height: 20px; /*Altura*/
+    background-color:#74b6d6 ; /*Color del fondo*/
+}
+
+#tituloNuevoEvento{
+    margin-top: 20px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 30px;
+}
+
+#logoMedico8{
+    background-image: url("app/stylessheets/medico7_opt.jpg");
+    width:931px; /*Ancho*/
+    height:621px; /*Altura*/
+    margin-top: -480px; /*Espacios de arriba*/
+    margin-left: 580px; /*Espacios de izquierda*/
+
+
+} 
+
+#pieContact4{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact4{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
+
+#pieContact5{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact5{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
+
+
+
+
+/*Show*/
+
+
+
+
+#tituloEvento4{
+    margin-top: 30px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 30px;
+}
+
+.nombreShow{
+    margin-top: 30px;
+    color:#000000; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.apeShow{
+    margin-top: 30px;
+    color:#000000; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.descShow{
+    margin-top: 30px;
+    color:#000000; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.fechaIShow{
+    margin-top: 30px;
+    color:#000000; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.fechaFShow{
+    margin-top: 30px;
+    color:#000000; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonesEditar2{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonesShow{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+#logoMedico6{
+    background-image: url("app/stylessheets/medico4_opt.jpg");
+    width:900px; /*Ancho*/
+    height:599px; /*Altura*/
+    margin-top: -405px; /*Espacios de arriba*/
+    margin-left: 610px; /*Espacios de izquierda*/
+
+} 
+
+#pieContact7{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact7{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
+
+
+
+
+
+
+/*editar*/
+#header4{
+    color:#080808 ; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 30px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-left: -35px;
+}
+#header4{
+    margin-top: -35px;
+    width: 105%; /*Anchura*/
+    height: 20px; /*Altura*/
+    background-color:#74b6d6 ; /*Color del fondo*/
+}
+
+#tituloEditar{
+    margin-top: 30px;
+    color:#094d85; /*Color de las letras*/
+    font-family: Helvetica; /*Tipo de letras*/
+    text-align: left;
+    font-size: 30px;
+}
+.nombreEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.apellidoEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.descripcionEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.fechaIEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.fechaTEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonesEditar{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+}
+
+.botonesEditar2{
+    margin-top: 30px;
+    color:#080808; /*Color de las letras*/
+    font-family: arial; /*Tipo de letras*/
+    text-align: left;
+    font-size: 20px;
+
+}
+
+#logoMedico7{
+    background-image: url("app/stylessheets/médico6_opt.jpg");
+    width:900px; /*Ancho*/
+    height:599px; /*Altura*/
+    margin-top: -490px; /*Espacios de arriba*/
+    margin-left: 610px; /*Espacios de izquierda*/
+
+} 
+
+#pieContact6{
+    width: 105%; /*Anchura*/
+    height: 10px; /*Altura*/
+    background-color:#74b6d6; /*Color del fondo*/
+}
+
+#pieContact6{
+    color:#080808; /*Color de las letras*/
+    font-family: georgia; /*Tipo de letras*/
+    padding: 10px; /*Margen interior*/
+    font-size: 15px;/*Tamaño de las letras*/
+    text-align: center; /*Alineación del texto*/
+    margin-top:60px; /*Espacios*/
+    margin-left: -33px;
+    margin-block-end: -35px;
+}
